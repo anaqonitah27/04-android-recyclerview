@@ -17,7 +17,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
-        android:layout_toEndof="@+id/img_item_club"
+        android:layout_toEndOf="@+id/img_item_club"
         android:orientation="vertical">
 
         <TextView
